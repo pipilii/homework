@@ -3,3 +3,4 @@
 .settings/
 target/
 *.class
+dist/* linguist-vendored=false
